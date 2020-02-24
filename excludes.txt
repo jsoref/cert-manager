@@ -2,7 +2,6 @@
 (?:^|/)go\.sum$
 (?:^|/)package-lock\.json$
 SUMS$
-\.DS_Store$
 \.ai$
 \.bmp$
 \.cer$
@@ -11,6 +10,7 @@ SUMS$
 \.crt$
 \.csr$
 \.dll$
+\.DS_Store$
 \.eot$
 \.eps$
 \.exe$
@@ -48,4 +48,5 @@ SUMS$
 \.yml$
 \.zip$
 ^excludes\.txt$
+^pkg/api/util/names_test\.go$
 ^whitelist\.txt$
