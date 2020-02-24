@@ -3,6 +3,7 @@
 (?:^|/)package-lock\.json$
 SUMS$
 \.ai$
+\.bazel$
 \.bmp$
 \.bzl$
 \.cer$
