@@ -52,5 +52,8 @@ SUMS$
 ^excludes\.txt$
 ^LICENSES$
 ^pkg/api/util/names_test\.go$
+^pkg/internal/vault/vault_test\.go$
+^test/e2e/suite/conformance/certificates/ca/ca\.go$
+^test/e2e/suite/issuers/ca/fixtures\.go$
 ^whitelist\.txt$
 ^WORKSPACE$
