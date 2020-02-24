@@ -53,3 +53,4 @@ SUMS$
 ^LICENSES$
 ^pkg/api/util/names_test\.go$
 ^whitelist\.txt$
+^WORKSPACE$
