@@ -4,6 +4,7 @@
 SUMS$
 \.ai$
 \.bmp$
+\.bzl$
 \.cer$
 \.class$
 \.crl$
