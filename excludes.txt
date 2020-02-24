@@ -47,6 +47,7 @@ SUMS$
 \.xpm$
 \.yml$
 \.zip$
+^devel/addon/pebble/chart/templates/configmap\.yaml$
 ^excludes\.txt$
 ^pkg/api/util/names_test\.go$
 ^whitelist\.txt$
